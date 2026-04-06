@@ -11,8 +11,8 @@ aliases: []
 tags:
   - astéroïdes
 ---
-astéCe n'est plus une planète depuis 2019, mais un astéroïde de la [[Ceinture de Kuiper]]
-
+Ce n'est plus une planète depuis 2019, mais un astéroïde de la [[Ceinture de Kuiper]]
+Pluton est la planète la plus éloignée du [[Soleil]] de tout le système solaire.
 
 
 
