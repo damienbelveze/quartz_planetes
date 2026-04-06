@@ -1,0 +1,24 @@
+---
+title: <% tp.file.title %>
+subtitle:
+id: <% tp.date.now("YYYYMMDD") %>_<% tp.file.title %>
+author: Damien Belvèze
+date: <% tp.date.now("YYYY-MM-DD") %>
+link_citations: true
+bibliography: biblio/Obsidian.bib
+biblio_style: csl\ieee.csl
+aliases: []
+tags: []
+---
+
+
+
+$\newline$
+# Bibliographie
+$\newline$
+
+
+
+
+
+
