@@ -9,7 +9,7 @@ bibliography: biblio/Obsidian.bib
 biblio_style: csl\ieee.csl
 aliases: []
 tags:
-  - planètes
+  - planete
 ---
 # photo
 

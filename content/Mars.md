@@ -9,9 +9,9 @@ bibliography: biblio/Obsidian.bib
 biblio_style: csl\ieee.csl
 aliases: []
 tags:
-  - planète
+  - planete
 ---
-
+p
 # photo
 
 ![](images/mars.jpg)
