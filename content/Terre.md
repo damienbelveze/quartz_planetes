@@ -8,7 +8,8 @@ link_citations: true
 bibliography: biblio/Obsidian.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: []
+tags:
+  - planète
 ---
 # il n'y a pas de planète B
 

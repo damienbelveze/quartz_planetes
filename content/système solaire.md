@@ -9,7 +9,6 @@ bibliography: biblio/Obsidian.bib
 biblio_style: csl\ieee.csl
 aliases: []
 tags:
-  - planètes
 ---
 Ensemble de planètes tournant autour du [[Soleil]] et limité par la [[Ceinture de Kuiper]]
 

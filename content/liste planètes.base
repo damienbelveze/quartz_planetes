@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Tableau
+    filters:
+      and:
+        - file.tags.contains("planète")
+    order:
+      - file.name
+      - title
+      - date
